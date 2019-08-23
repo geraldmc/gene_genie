@@ -4,7 +4,7 @@ This repository contains a template project for demonstrating Flask, Vue.js, Bul
 
 ### Intro
 
-Genomics APIs represent an evolving set of standards and protocols that assist developers in managing the plethora of data sources and in building more interoperable applications. Due to the expanding volume and diversity of genomics data, Application Programming Interfaces (APIs) have been developed to provide secure and predictable access to a wider variety of applications and platforms.
+Genomics APIs represent an evolving set of standards and protocols that assist developers in managing the plethora of data sources and in building more interoperable applications. Due to the expanding volume and diversity of genomics data, Application Programming Interfaces (APIs) are developed to provide secure and predictable access to a variety of applications and platforms.
 
 # Gene Genie - API and Client
 
